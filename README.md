@@ -1,4 +1,4 @@
-# Teensy GameCube USB HID Adapter
+# Teensy GameCube controller USB HID Adapter
 Uses a Teensy 3.5 to make a Nintendo GameCube controller appear as a USB HID.
 
 # Hardware Setup
